@@ -1,0 +1,131 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+  }
+    body{
+      background-color: darkgray;
+      margin: 0 auto;
+    .container{
+      max-width: 80%;
+      background-color: #E4F9F5;    
+      margin: 10px auto;
+      padding: 10px;
+    }
+    h1,h2,h3,h4,h5,h6{
+      color: #11999e;
+    }
+    img{
+      width: 20%;
+      height: 20%;
+      border: 3px white solid;
+      border-radius: 50%;
+      float: left;
+      margin: 0px auto;
+    }
+    .bio{
+      font-size: 13px;
+      margin: 0px auto;
+      font-family: serif;
+      font-style: bold;
+      float: left;
+      padding: 40px;
+    }
+    .contact{
+      color:#11999e;
+      font-size: 10px;
+      float: right;
+      padding: 40px;
+      text-decoration: none;
+    }
+  .contact p a{
+      text-decoration: none;
+      color: teal;
+      font-weight: bold;
+    }
+    .contact p a:hover{
+      color: tomato;
+    }
+    .div-clear{
+      clear: both;
+    }
+    hr{
+      border: solid black 2px;
+      width: 100%;
+      margin: 20px auto;
+      border-bottom: none;
+    }
+    #personal-section{
+      
+    }
+    .section{
+      margin-bottom: 20px;
+    }
+    .left-div{
+      width: 30%;
+      float: left;
+    }
+    .right-div{
+      width: 70%;
+      float: left;
+      }
+      #bio{
+        text-decoration: none;
+        color: teal;
+      }
+      #bio:hover{
+        color: red;
+      }
+      .common-hr{
+        border: solid 1px black;
+        margin: 20px auto;
+        border-bottom: none;
+        width: 100%;
+      }
+      .education-template-left{
+        float: left;
+        width: 45%;
+      }
+      .education-template-left a{
+        text-decoration: none;
+        color: teal
+      }
+      .education-template-left a:hover{
+        color: red;
+      }
+      .education-template-right a{
+        text-decoration: none;
+        color: teal;
+        float: left;
+        width: 45%;
+      }
+      .education-template-right a:hover{
+        color: red;
+      }
+     .education-template-up{
+       text-decoration: none;
+        float: left;
+        width:45%;
+     }
+     .education-template-up a{
+       text-decoration: none;
+     }
+     .education-template-bottom{
+       text-decoration: none;
+       float: left;
+       width: 45%;
+     }
+     .last{
+       background-color: black;
+       text-align: center;
+       padding: 10px;
+     }
+     .last a{
+       text-decoration: none;
+       color: white;
+     }
+     .last a:hover{
+       color: red;
+     }
+     .last p{
+       color: white;
+     }
